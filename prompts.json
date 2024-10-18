@@ -1,0 +1,74 @@
+[
+{
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "Consider a scenario of an AV approaching a crosswalk in a shared space (with NO traffic lights) as shown in the image. Describe and design eHMI on AV for this scenario."
+      }
+    ]
+},
+{
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "Consider a scenario of a multiple AVs approaching a crosswalk in a shared space (with NO traffic lights) as shown in the image. Describe and design eHMI on AVs for this scenario."
+      }
+    ]
+},
+{
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "Consider a scenario of an AV approaching a crosswalk in a shared space (with NO traffic lights) as shown in the image. Describe and design SPIU for this scenario."
+      }
+    ]
+},
+{
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "Consider a scenario of a multiple AVs approaching a crosswalk in a shared space (with NO traffic lights) as shown in the image. Describe and design SPIU for this scenario."
+      }
+    ]
+},
+{
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "Consider a scenario with template of SPIU as shown in the image. Describe and design your own SPIU. You may use the keywords from the image for creating your design."
+      }
+    ]
+},
+{
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "Consider a scenario of an AV approaching a crosswalk in a shared space (with NO traffic lights) as shown in the image. When to activate SPIU in this shared space? Consider different cases of AVs approaching."
+      }
+    ]
+},
+{
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "Consider a scenario of a 4-way intersection in a shared space (with NO traffic lights) as shown in the image. Describe where to place the SPIUs here."
+      }
+    ]
+},
+{
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "Consider a scenario of autonomous delivery robots on pedestrian walk and AVs are moving on street in a shared space (with NO traffic lights) as shown in the image. Discuss different interaction scenarios between autonomous vehicles and pedestrians. Describe how eHMI on AV or SPIU could be used here."
+      }
+    ]
+}
+]
